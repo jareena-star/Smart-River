@@ -1,5 +1,5 @@
 🌊 Smart River Name Placement System
-📌 Problem Statement
+* 📌 Problem Statement
 Maps like Google Maps place river names dynamically along the river flow.
 The challenge is to:
 Align river names with natural flow direction
@@ -16,7 +16,7 @@ Detects safe placement region
 Places river name character-by-character along river curve
 Adjusts rotation dynamically based on flow direction
 Ensures text remains inside river boundaries
-*🧠 Core Concepts Used
+* 🧠 Core Concepts Used
 Computational Geometry (Shapely)
 Curve Smoothing (SciPy Splines)
 Geometric Buffering for River Boundaries
@@ -28,10 +28,10 @@ Shapely
 NumPy
 SciPy
 Matplotlib
-*📂 Dataset
+* 📂 Dataset
 GeoJSON river file (real_river.geojson)
 Mimics real-world river coordinates (latitude-longitude format)
-*▶️ How to Run
+* ▶️ How to Run
 1️⃣ Install dependencies
 Copy code
 Bash
@@ -40,7 +40,7 @@ pip install shapely matplotlib numpy scipy
 Copy code
 Bash
 python river_label.py
-🎯 Key Features
+* 🎯 Key Features
 ✔ Curved text along river flow
 ✔ Boundary-aware placement
 ✔ Avoids edge overlap
