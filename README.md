@@ -53,4 +53,4 @@ Collision detection for multiple rivers
 Integration with real map tiles (Leaflet / Google Maps API)
 Web-based interactive version
 * 📸 Output Preview
-  C:\Users\sl725\OneDrive\Attachments\Desktop\smart_river_label
+  "C:\Users\sl725\OneDrive\Attachments\Desktop\smart_river_label\output.png.png"
