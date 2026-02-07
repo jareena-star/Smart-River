@@ -52,5 +52,5 @@ Font size auto-adjustment
 Collision detection for multiple rivers
 Integration with real map tiles (Leaflet / Google Maps API)
 Web-based interactive version
-📸 Output Preview
+* 📸 Output Preview
 output.png
